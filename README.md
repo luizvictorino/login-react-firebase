@@ -6,7 +6,7 @@ Entendi, você deseja um README para este repositório específico. Vamos criar 
 
 Este é um simples projeto de login desenvolvido com React e Firebase.
 
-![Exemplo de Login](tela-inicial.png)
+![Exemplo de Login](src/tela-inicial.png)
 
 ## Funcionalidades
 
