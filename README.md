@@ -44,13 +44,3 @@ Este é um simples projeto de login desenvolvido com React e Firebase.
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas e enviar solicitações de pull.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
-
-Certifique-se de que a imagem de exemplo (login_screenshot.png) esteja no diretório raiz do projeto para que ela seja exibida no README.
-
-Se precisar de mais alguma coisa, estou aqui para ajudar!
